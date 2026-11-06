@@ -1,0 +1,17 @@
+[
+	{
+		"id": "13690944466",
+		"tbs_sha256": "3dad1c97792c46fa1ae3428874257a7ea4315969c9bb8d55405e10684045b2e4",
+		"cert_sha256": "2853ddabfba2bfbc2e4b887ade0502ba75613221e20aee51355f4199f7e1379f",
+		"dns_names": [
+			"*.mwdh2o.com",
+			"mwdh20.com",
+			"mwdh2o.com",
+			"www.mwdh20.com"
+		],
+		"pubkey_sha256": "982222a209d8d675fdfac729b22b1a4b9b5b40436514ef5813a247e0e0430ae3",
+		"not_before": "2026-02-05T00:00:00Z",
+		"not_after": "2027-03-08T23:59:59Z",
+		"revoked": false
+	}
+]

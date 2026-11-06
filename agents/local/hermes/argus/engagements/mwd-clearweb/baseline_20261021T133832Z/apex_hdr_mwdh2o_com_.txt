@@ -1,0 +1,6 @@
+HTTP/1.0 302 Moved Temporarily
+Location: https://mwdh2o.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+

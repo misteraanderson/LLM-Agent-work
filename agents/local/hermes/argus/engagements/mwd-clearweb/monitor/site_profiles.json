@@ -1,0 +1,28 @@
+{
+  "mwdh2o.com": {
+    "title": "MWD | Metropolitan Water District of Southern California Homepage",
+    "lang": "en",
+    "allowed_hosts": [
+      "www.mwdh2o.com",
+      "mwdh2o.com"
+    ],
+    "contact_details": [],
+    "expected_phones": [],
+    "expected_emails": []
+  },
+  "bewaterwise.com": {
+    "title": "bewaterwise.com",
+    "lang": "en",
+    "allowed_hosts": [
+      "www.bewaterwise.com",
+      "bewaterwise.com"
+    ],
+    "contact_details": [
+      "(888) 376-3314"
+    ],
+    "expected_phones": [
+      "(888) 376-3314"
+    ],
+    "expected_emails": []
+  }
+}

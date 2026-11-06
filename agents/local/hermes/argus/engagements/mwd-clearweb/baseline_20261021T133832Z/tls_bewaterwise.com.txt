@@ -1,0 +1,5 @@
+subject=C=US, ST=California, L=Los Angeles, O=Metropolitan Water District of Southern California, CN=bewaterwise.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+notBefore=Feb  5 00:00:00 2026 GMT
+notAfter=Mar  8 23:59:59 2027 GMT
+sha256 Fingerprint=B3:99:59:53:84:08:C0:8C:FA:53:71:46:13:3E:B4:44:39:06:98:D4:72:E4:1E:68:D9:64:5E:65:CC:05:75:3E

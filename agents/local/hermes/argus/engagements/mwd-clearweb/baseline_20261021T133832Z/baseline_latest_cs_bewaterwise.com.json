@@ -1,0 +1,60 @@
+[
+	{
+		"id": "13694162524",
+		"tbs_sha256": "49385f6558f4748e0d4192800f5f21490209f8671dcdf2edb93fffec49ccce56",
+		"cert_sha256": "2bb2ac30027596c1659694cc81e19318b3722f447c6c4062a7a6147c2daff49b",
+		"dns_names": [
+			"bewaterwise.com",
+			"bewaterwise.net",
+			"bewaterwise.org",
+			"bwaterwise.com",
+			"bwaterwise.net",
+			"bwaterwise.org",
+			"dvlake.com",
+			"mwdinnovates.com",
+			"mwdwatertomorrow.com",
+			"socalwaterdialogue.com",
+			"socalwaterdialogue.org",
+			"surveys.bewaterwise.com",
+			"www.bewaterwise.com",
+			"www.bewaterwise.net",
+			"www.bewaterwise.org",
+			"www.bwaterwise.com",
+			"www.bwaterwise.net",
+			"www.bwaterwise.org",
+			"www.dvlake.com",
+			"www.mwdinnovates.com",
+			"www.mwdwatertomorrow.com",
+			"www.socalwaterdialogue.com",
+			"www.socalwaterdialogue.org"
+		],
+		"pubkey_sha256": "20b9c091113e0e8f71c9392f86636d6149064d2d1b674b81add4143014e6f622",
+		"not_before": "2026-02-05T00:00:00Z",
+		"not_after": "2027-03-08T23:59:59Z",
+		"revoked": false
+	},
+	{
+		"id": "16807979429",
+		"tbs_sha256": "c6aae069fe7258a7942bbc16fdaba74182625489deec3d7ab407e2978e58a515",
+		"cert_sha256": "733d32a9e12239d229792c2fef3b03bc892048af1d3e421372d302f69b1a00af",
+		"dns_names": [
+			"www.bewaterwise.com"
+		],
+		"pubkey_sha256": "7de77a050c8b37999a7ee7f92b5f41bfb644bcedfe03ec221e35e32e62f71529",
+		"not_before": "2026-08-27T02:42:03Z",
+		"not_after": "2026-11-25T03:40:57Z",
+		"revoked": false
+	},
+	{
+		"id": "16807982095",
+		"tbs_sha256": "6409aea1c9eb8aaf3a66f7a6d8de70dfe1902fb2b5b745ce6622ebbb76fce07b",
+		"cert_sha256": "1688fc96248a3a9ee555a13ca6361f15de5f2c5228471622826d8ebf79dc2420",
+		"dns_names": [
+			"www.bewaterwise.com"
+		],
+		"pubkey_sha256": "3aaf6a35f90d6802e1fa6775dd87c59438ef68718439410f56d1daf37ff6a82f",
+		"not_before": "2026-08-27T02:42:13Z",
+		"not_after": "2026-11-25T03:42:10Z",
+		"revoked": false
+	}
+]

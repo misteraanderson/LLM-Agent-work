@@ -1,0 +1,155 @@
+== rdap_bewaterwise.com.json
+ldhName: BEWATERWISE.COM
+status: ['client transfer prohibited']
+event: registration 2003-06-12T22:08:21Z
+event: expiration 2027-06-12T22:08:21Z
+event: last changed 2023-08-20T17:44:35Z
+event: last update of RDAP database 2026-10-21T13:38:35Z
+nameservers: ['NS1.MWDH2O.COM', 'NS2.MWDH2O.COM']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: 99114636_DOMAIN_COM-VRSN
+== rdap_bewaterwise.net.json
+ldhName: BEWATERWISE.NET
+status: ['client transfer prohibited']
+event: registration 2003-06-12T22:08:21Z
+event: expiration 2027-06-12T22:08:21Z
+event: last changed 2023-08-10T00:34:37Z
+event: last update of RDAP database 2026-10-21T13:41:35Z
+nameservers: ['NS1.MWDH2O.COM', 'NS2.MWDH2O.COM']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: 99114635_DOMAIN_NET-VRSN
+== rdap_bewaterwise.org.json
+ldhName: bewaterwise.org
+status: ['client transfer prohibited']
+event: expiration 2027-06-12T22:08:22Z
+event: registration 2003-06-12T22:08:22Z
+event: last changed 2026-08-11T23:13:35.179Z
+event: last update of RDAP database 2026-10-21T13:41:42.534Z
+nameservers: ['ns1.mwdh2o.com', 'ns2.mwdh2o.com']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: None
+== rdap_bwaterwise.com.json
+ldhName: BWATERWISE.COM
+status: ['client transfer prohibited']
+event: registration 2003-06-12T22:08:21Z
+event: expiration 2027-06-12T22:08:21Z
+event: last changed 2023-08-10T00:26:32Z
+event: last update of RDAP database 2026-10-21T13:41:35Z
+nameservers: ['NS1.MWDH2O.COM', 'NS2.MWDH2O.COM']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: 99114637_DOMAIN_COM-VRSN
+== rdap_dvlake.com.json
+ldhName: DVLAKE.COM
+status: ['client transfer prohibited']
+event: registration 2003-07-10T22:36:37Z
+event: expiration 2027-07-10T22:36:37Z
+event: last changed 2023-08-09T16:53:21Z
+event: last update of RDAP database 2026-10-21T13:41:35Z
+nameservers: ['NS1.MWDH2O.COM', 'NS2.MWDH2O.COM']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: 100344524_DOMAIN_COM-VRSN
+== rdap_ip_144.166.174.145.json
+ldhName: None
+status: ['active']
+event: last changed 2021-12-14T20:28:40-05:00
+event: registration 1990-12-12T00:00:00-05:00
+nameservers: []
+dnssec: None
+entity roles: ['registrant'] | fn: Metropolitan Water District of California | org: None
+   sub roles: ['technical', 'abuse', 'administrative'] | fn: Meng Ti | org: None
+entity roles: ['technical', 'noc'] | fn: Meng Ti | org: None
+handle: NET-144-166-0-0-1
+== rdap_mwdh20.com.json
+ldhName: MWDH20.COM
+status: ['client transfer prohibited']
+event: registration 2001-01-26T18:09:22Z
+event: expiration 2027-01-26T18:09:22Z
+event: last changed 2024-06-25T22:17:24Z
+event: last update of RDAP database 2026-10-21T13:41:35Z
+nameservers: ['NS1.MWDH2O.COM', 'NS2.MWDH2O.COM']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: 54838872_DOMAIN_COM-VRSN
+== rdap_mwdh2o.com.json
+ldhName: MWDH2O.COM
+status: ['client transfer prohibited']
+event: registration 2000-11-08T21:58:55Z
+event: expiration 2028-11-08T21:58:55Z
+event: last changed 2023-09-09T05:56:47Z
+event: last update of RDAP database 2026-10-21T13:38:35Z
+nameservers: ['NS1.MWDH2O.COM', 'NS2.MWDH2O.COM']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: 40322184_DOMAIN_COM-VRSN
+== rdap_mwdinnovates.com.json
+ldhName: MWDINNOVATES.COM
+status: ['client transfer prohibited']
+event: registration 2016-10-03T18:02:56Z
+event: expiration 2027-10-03T18:02:56Z
+event: last changed 2026-08-04T06:17:49Z
+event: last update of RDAP database 2026-10-21T13:41:35Z
+nameservers: ['NS1.MWDH2O.COM', 'NS2.MWDH2O.COM']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: 2063393079_DOMAIN_COM-VRSN
+== rdap_mwdwatertomorrow.com.json
+ldhName: MWDWATERTOMORROW.COM
+status: ['client transfer prohibited']
+event: registration 2015-09-25T17:39:18Z
+event: expiration 2027-09-25T17:39:18Z
+event: last changed 2026-07-27T06:25:23Z
+event: last update of RDAP database 2026-10-21T13:41:35Z
+nameservers: ['NS1.MWDH2O.COM', 'NS2.MWDH2O.COM']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: 1963478052_DOMAIN_COM-VRSN
+== rdap_socalwaterdialogue.com.json
+ldhName: SOCALWATERDIALOGUE.COM
+status: ['client transfer prohibited']
+event: registration 2005-08-29T18:02:15Z
+event: expiration 2027-08-29T18:02:15Z
+event: last changed 2023-08-10T05:59:46Z
+event: last update of RDAP database 2026-10-21T13:41:35Z
+nameservers: ['NS1.MWDH2O.COM', 'NS2.MWDH2O.COM']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: 202565060_DOMAIN_COM-VRSN
+== rdap_socalwaterdialogue.org.json
+ldhName: socalwaterdialogue.org
+status: ['client transfer prohibited']
+event: transfer 2005-09-23T21:20:28Z
+event: expiration 2027-01-31T20:47:39Z
+event: registration 2003-01-31T20:47:39Z
+event: last changed 2026-08-12T08:35:14.567Z
+event: last update of RDAP database 2026-10-21T13:41:43.846Z
+nameservers: ['ns1.mwdh2o.com', 'ns2.mwdh2o.com']
+dnssec: False
+entity roles: ['registrar'] | fn: Network Solutions, LLC | org: None
+   sub roles: ['abuse'] | fn:  | org: None
+registrar IANA id: 2
+handle: None

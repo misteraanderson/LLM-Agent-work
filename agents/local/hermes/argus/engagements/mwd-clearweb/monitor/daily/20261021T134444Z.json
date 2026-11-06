@@ -1,0 +1,283 @@
+{
+  "run_utc": "2026-10-21T13:44:44Z",
+  "domains": {
+    "mwdh2o.com": {
+      "dns": {
+        "A": [
+          "144.166.174.145"
+        ],
+        "AAAA": [],
+        "NS": [
+          "ns1.mwdh2o.com.",
+          "ns2.mwdh2o.com."
+        ],
+        "MX": [
+          "10 mwdh2o-com.mail.protection.outlook.com."
+        ],
+        "TXT": [
+          "\"1e69fd65fde5446e965e2afa1123e90b\"",
+          "\"Dynatrace-site-verification=c15c68c3-72aa-4b07-9b87-ef890469e20a__8jjgi6gn1mdjcastkf0agjh63v\"",
+          "\"MS=ms67340088\"",
+          "\"adobe-sign-verification=859b67bf3a091f2fd08e4d67f9f7c0d9\"",
+          "\"anthropic-domain-verification-7v6cqc=oJKtsJJiksVn2jd5UVFr7ZybN\"",
+          "\"asv=34fea1d1399380df81a097c3f7d2108a\"",
+          "\"ca3-6ddd604a6f2a47b9b370e7f34c7f9e75\"",
+          "\"fVJKc/eP67RzXcoXvWMunHemPx8r9ncSEc+O8ivi2YIA8QR7NyW35Hj6mLMN1jUPjxtmsKccpdBbLnWUahOokg==\"",
+          "\"google-site-verification=aUU8HpOi-3qnqtS7DfFJQu7j7OiJ9IbbznGkG1O7I8s\"",
+          "\"openai-domain-verification=dv-Qws2kPP8nhwDjSt8fLX5YvPP\"",
+          "\"v=spf1 include:ses.onsolve.net include:spf.protection.outlook.com ip4:144.166.53.32 ip4:144.166.55.32 ip4:144.166.56.32 ~all\""
+        ],
+        "SOA": [
+          "ns1.mwdh2o.com. ncc.mwdh2o.com. 2026101634 10800 3600 604800 86400"
+        ],
+        "CAA": [],
+        "DMARC": [
+          "\"v=DMARC1; p=none; rua=mailto:dmarc_agg@vali.email,mailto:68yvukit@ag.us.dmarcian.com; fo=1\""
+        ],
+        "www_CNAME": [
+          "www.mwdh2o.com.cdn.cloudflare.net."
+        ]
+      },
+      "rdap": {
+        "status": [
+          "client transfer prohibited"
+        ],
+        "expiration": "2028-11-08T21:58:55Z",
+        "nameservers": [
+          "ns1.mwdh2o.com",
+          "ns2.mwdh2o.com"
+        ],
+        "registrar": "Network Solutions, LLC",
+        "registrant_visible": false
+      },
+      "http": {
+        "apex_https": {
+          "code": "200",
+          "final_url": "https://www.mwdh2o.com/",
+          "remote_ip": "172.66.155.182",
+          "bytes": 317860,
+          "sha256": "1c3fa9f797c27fa4235a6eec0afa9260d9ea5336ee129473cc58fe96f0e13c86",
+          "text_sha256": "db1d27e5749f50d1621dc25aacbb3f4068c0c343736932ecf4e4b6df4ff25a44",
+          "text_len": 14020,
+          "title": "MWD | Metropolitan Water District of Southern California Homepage",
+          "headers": {
+            "server": "cloudflare",
+            "content-type": "text/html; charset=utf-8",
+            "last-modified": null,
+            "strict-transport-security": null,
+            "content-security-policy": null,
+            "x-frame-options": "SAMEORIGIN",
+            "x-content-type-options": "nosniff",
+            "x-powered-by": null
+          }
+        },
+        "www_https": {
+          "code": "200",
+          "final_url": "https://www.mwdh2o.com/",
+          "remote_ip": "104.20.25.116",
+          "bytes": 317860,
+          "sha256": "f44143fe9e02a5e52714142f113d039d1e03183e10177c17e2e422f94fdd3748",
+          "text_sha256": "4a3de069f06ddec21cff916ce4f42ebcc32d3edef2b013538bc100896e171b5c",
+          "text_len": 14020,
+          "title": "MWD | Metropolitan Water District of Southern California Homepage",
+          "headers": {
+            "server": "cloudflare",
+            "content-type": "text/html; charset=utf-8",
+            "last-modified": null,
+            "strict-transport-security": null,
+            "content-security-policy": null,
+            "x-frame-options": "SAMEORIGIN",
+            "x-content-type-options": "nosniff",
+            "x-powered-by": null
+          }
+        }
+      },
+      "tls": {
+        "fingerprint": "28:53:DD:AB:FB:A2:BF:BC:2E:4B:88:7A:DE:05:02:BA:75:61:32:21:E2:0A:EE:51:35:5F:41:99:F7:E1:37:9F",
+        "not_after": "Mar  8 23:59:59 2027 GMT",
+        "sans": [
+          "DNS:*.mwdh2o.com",
+          "DNS:mwdh20.com",
+          "DNS:mwdh2o.com",
+          "DNS:www.mwdh20.com"
+        ]
+      },
+      "ct": {
+        "issuance_count": 70,
+        "names": [
+          "*.ice.mwdh2o.com",
+          "*.in.mwdh2o.com",
+          "*.mwdh2o.com",
+          "ar.mwdh2o.com",
+          "autodiscover.mwdh2o.com",
+          "dam-cdn.mwd.orangelogic.com",
+          "dam-edge1.mwd.orangelogic.com",
+          "dam.mwd.orangelogic.com",
+          "de.mwdh2o.com",
+          "el.mwdh2o.com",
+          "es.mwdh2o.com",
+          "esowa.mwdsc.net",
+          "exchowa.mwdsc.net",
+          "fr.mwdh2o.com",
+          "hi.mwdh2o.com",
+          "hy.mwdh2o.com",
+          "imagecollection.mwdh2o.com",
+          "ja.mwdh2o.com",
+          "km.mwdh2o.com",
+          "ko.mwdh2o.com",
+          "manage.mwdsc.net",
+          "mwdh20.com",
+          "mwdh2o.com",
+          "nvowa.mwdsc.net",
+          "owa.mwdh2o.com",
+          "owa2.mwdh2o.com",
+          "pl.mwdh2o.com",
+          "ru.mwdh2o.com",
+          "smtp.mwdh2o.com",
+          "tl.mwdh2o.com",
+          "vi.mwdh2o.com",
+          "www-admin.mwdh2o.com",
+          "www-stg.mwdh2o.com",
+          "www.mwdh20.com",
+          "www.mwdh2o.com",
+          "zh-cn.mwdh2o.com"
+        ]
+      }
+    },
+    "bewaterwise.com": {
+      "dns": {
+        "A": [
+          "144.166.174.146"
+        ],
+        "AAAA": [],
+        "NS": [
+          "ns1.mwdh2o.com.",
+          "ns2.mwdh2o.com."
+        ],
+        "MX": [],
+        "TXT": [
+          "\"_f66hvlpebk45i5061lad2gc11cbf0gb\""
+        ],
+        "SOA": [
+          "ns1.mwdh2o.com. ncc.mwdh2o.com. 2026020505 10800 3600 604800 3600"
+        ],
+        "CAA": [],
+        "DMARC": [],
+        "www_CNAME": [
+          "www.bewaterwise.com.cdn.cloudflare.net."
+        ]
+      },
+      "rdap": {
+        "status": [
+          "client transfer prohibited"
+        ],
+        "expiration": "2027-06-12T22:08:21Z",
+        "nameservers": [
+          "ns1.mwdh2o.com",
+          "ns2.mwdh2o.com"
+        ],
+        "registrar": "Network Solutions, LLC",
+        "registrant_visible": false
+      },
+      "http": {
+        "apex_https": {
+          "code": "200",
+          "final_url": "https://www.bewaterwise.com/",
+          "remote_ip": "172.66.158.222",
+          "bytes": 71433,
+          "sha256": "16fef62b7723793f1225af17405d0deedf2364606b26453925540fcb7f1f8153",
+          "text_sha256": "65cc96234e4be883550c760d836e280c980721bca736b69eaf490c10b3b4c829",
+          "text_len": 4773,
+          "title": "bewaterwise.com",
+          "headers": {
+            "server": "cloudflare",
+            "content-type": "text/html",
+            "last-modified": "Mon, 10 Aug 2026 17:31:37 GMT",
+            "strict-transport-security": null,
+            "content-security-policy": null,
+            "x-frame-options": null,
+            "x-content-type-options": null,
+            "x-powered-by": "ASP.NET"
+          }
+        },
+        "www_https": {
+          "code": "200",
+          "final_url": "https://www.bewaterwise.com/",
+          "remote_ip": "104.20.22.1",
+          "bytes": 71433,
+          "sha256": "ee0a69fbaa83a52926978836e21013abb962d7fa56f11f8d4fa8507609d987fb",
+          "text_sha256": "65cc96234e4be883550c760d836e280c980721bca736b69eaf490c10b3b4c829",
+          "text_len": 4773,
+          "title": "bewaterwise.com",
+          "headers": {
+            "server": "cloudflare",
+            "content-type": "text/html",
+            "last-modified": "Mon, 10 Aug 2026 17:31:37 GMT",
+            "strict-transport-security": null,
+            "content-security-policy": null,
+            "x-frame-options": null,
+            "x-content-type-options": null,
+            "x-powered-by": "ASP.NET"
+          }
+        }
+      },
+      "tls": {
+        "fingerprint": "B3:99:59:53:84:08:C0:8C:FA:53:71:46:13:3E:B4:44:39:06:98:D4:72:E4:1E:68:D9:64:5E:65:CC:05:75:3E",
+        "not_after": "Mar  8 23:59:59 2027 GMT",
+        "sans": [
+          "DNS:bewaterwise.com",
+          "DNS:bewaterwise.net",
+          "DNS:bewaterwise.org",
+          "DNS:bwaterwise.com",
+          "DNS:bwaterwise.net",
+          "DNS:bwaterwise.org",
+          "DNS:dvlake.com",
+          "DNS:mwdinnovates.com",
+          "DNS:mwdwatertomorrow.com",
+          "DNS:socalwaterdialogue.com",
+          "DNS:socalwaterdialogue.org",
+          "DNS:surveys.bewaterwise.com",
+          "DNS:www.bewaterwise.com",
+          "DNS:www.bewaterwise.net",
+          "DNS:www.bewaterwise.org",
+          "DNS:www.bwaterwise.com",
+          "DNS:www.bwaterwise.net",
+          "DNS:www.bwaterwise.org",
+          "DNS:www.dvlake.com",
+          "DNS:www.mwdinnovates.com",
+          "DNS:www.mwdwatertomorrow.com",
+          "DNS:www.socalwaterdialogue.com",
+          "DNS:www.socalwaterdialogue.org"
+        ]
+      },
+      "ct": {
+        "issuance_count": 3,
+        "names": [
+          "bewaterwise.com",
+          "bewaterwise.net",
+          "bewaterwise.org",
+          "bwaterwise.com",
+          "bwaterwise.net",
+          "bwaterwise.org",
+          "dvlake.com",
+          "mwdinnovates.com",
+          "mwdwatertomorrow.com",
+          "socalwaterdialogue.com",
+          "socalwaterdialogue.org",
+          "surveys.bewaterwise.com",
+          "www.bewaterwise.com",
+          "www.bewaterwise.net",
+          "www.bewaterwise.org",
+          "www.bwaterwise.com",
+          "www.bwaterwise.net",
+          "www.bwaterwise.org",
+          "www.dvlake.com",
+          "www.mwdinnovates.com",
+          "www.mwdwatertomorrow.com",
+          "www.socalwaterdialogue.com",
+          "www.socalwaterdialogue.org"
+        ]
+      }
+    }
+  }
+}

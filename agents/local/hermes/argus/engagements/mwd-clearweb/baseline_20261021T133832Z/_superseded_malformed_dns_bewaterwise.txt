@@ -1,0 +1,11 @@
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+www.bewaterwise.com.	600	IN	CNAME	www.bewaterwise.com.cdn.cloudflare.net.
+www.bewaterwise.com.cdn.cloudflare.net.	300 IN AAAA 2606:4700:10::6814:1601
+www.bewaterwise.com.cdn.cloudflare.net.	300 IN AAAA 2606:4700:10::ac42:9ede

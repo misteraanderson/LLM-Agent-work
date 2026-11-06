@@ -1,0 +1,14 @@
+HTTP/2 200 
+date: Wed, 21 Oct 2026 13:38:55 GMT
+content-type: text/html; charset=utf-8
+vary: *
+server: cloudflare
+referrer-policy: strict-origin-when-cross-origin
+x-permitted-cross-domain-policies: none
+permissions-policy: accelerometer=(),autoplay=(),camera=(),display-capture=(),fullscreen=(),geolocation=(),gyroscope=(),magnetometer=(),microphone=(),midi=(),payment=()
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+cf-cache-status: BYPASS
+cf-ray: a4e0aa4dfaca7ddc-LAX
+

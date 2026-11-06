@@ -1,0 +1,5 @@
+subject=C=US, ST=California, L=Los Angeles, O=Metropolitan Water District of Southern California, CN=*.mwdh2o.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+notBefore=Feb  5 00:00:00 2026 GMT
+notAfter=Mar  8 23:59:59 2027 GMT
+sha256 Fingerprint=28:53:DD:AB:FB:A2:BF:BC:2E:4B:88:7A:DE:05:02:BA:75:61:32:21:E2:0A:EE:51:35:5F:41:99:F7:E1:37:9F

@@ -1,0 +1,35 @@
+mwdh2o.com A:
+mwdh2o.com.		23	IN	A	144.166.174.145
+mwdh2o.com AAAA:
+mwdh2o.com NS:
+mwdh2o.com.		86400	IN	NS	ns1.mwdh2o.com.
+mwdh2o.com.		86400	IN	NS	ns2.mwdh2o.com.
+mwdh2o.com MX:
+mwdh2o.com.		3600	IN	MX	10 mwdh2o-com.mail.protection.outlook.com.
+mwdh2o.com TXT:
+mwdh2o.com.		3600	IN	TXT	"1e69fd65fde5446e965e2afa1123e90b"
+mwdh2o.com.		3600	IN	TXT	"google-site-verification=aUU8HpOi-3qnqtS7DfFJQu7j7OiJ9IbbznGkG1O7I8s"
+mwdh2o.com.		3600	IN	TXT	"ca3-6ddd604a6f2a47b9b370e7f34c7f9e75"
+mwdh2o.com.		3600	IN	TXT	"anthropic-domain-verification-7v6cqc=oJKtsJJiksVn2jd5UVFr7ZybN"
+mwdh2o.com.		3600	IN	TXT	"v=spf1 include:ses.onsolve.net include:spf.protection.outlook.com ip4:144.166.53.32 ip4:144.166.55.32 ip4:144.166.56.32 ~all"
+mwdh2o.com.		3600	IN	TXT	"Dynatrace-site-verification=c15c68c3-72aa-4b07-9b87-ef890469e20a__8jjgi6gn1mdjcastkf0agjh63v"
+mwdh2o.com.		3600	IN	TXT	"MS=ms67340088"
+mwdh2o.com.		3600	IN	TXT	"openai-domain-verification=dv-Qws2kPP8nhwDjSt8fLX5YvPP"
+mwdh2o.com.		3600	IN	TXT	"fVJKc/eP67RzXcoXvWMunHemPx8r9ncSEc+O8ivi2YIA8QR7NyW35Hj6mLMN1jUPjxtmsKccpdBbLnWUahOokg=="
+mwdh2o.com.		3600	IN	TXT	"adobe-sign-verification=859b67bf3a091f2fd08e4d67f9f7c0d9"
+mwdh2o.com.		3600	IN	TXT	"asv=34fea1d1399380df81a097c3f7d2108a"
+mwdh2o.com SOA:
+mwdh2o.com.		3600	IN	SOA	ns1.mwdh2o.com. ncc.mwdh2o.com. 2026101634 10800 3600 604800 86400
+mwdh2o.com CAA:
+bewaterwise.com A:
+bewaterwise.com.	23	IN	A	144.166.174.146
+bewaterwise.com AAAA:
+bewaterwise.com NS:
+bewaterwise.com.	86400	IN	NS	ns2.mwdh2o.com.
+bewaterwise.com.	86400	IN	NS	ns1.mwdh2o.com.
+bewaterwise.com MX:
+bewaterwise.com TXT:
+bewaterwise.com.	3600	IN	TXT	"_f66hvlpebk45i5061lad2gc11cbf0gb"
+bewaterwise.com SOA:
+bewaterwise.com.	3600	IN	SOA	ns1.mwdh2o.com. ncc.mwdh2o.com. 2026020505 10800 3600 604800 3600
+bewaterwise.com CAA:

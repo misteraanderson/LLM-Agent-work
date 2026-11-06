@@ -1,0 +1,11 @@
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+;; Warning, extra type option
+www.mwdh2o.com.		3600	IN	CNAME	www.mwdh2o.com.cdn.cloudflare.net.
+www.mwdh2o.com.cdn.cloudflare.net. 300 IN AAAA	2606:4700:10::6814:1974
+www.mwdh2o.com.cdn.cloudflare.net. 300 IN AAAA	2606:4700:10::ac42:9bb6

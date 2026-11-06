@@ -1,0 +1,40 @@
+{
+  "baseline_utc": "2026-10-21T13:38Z",
+  "scope": "clear web: passive DNS/RDAP/CT lookups + GETs on www and apex (HTTP/HTTPS)",
+  "operator_confirmed": {
+    "mwdh20.com": "MWD-owned (operator statement, not independently verified)"
+  },
+  "notes": [
+    "crt.sh 502 on all attempts; CT from certspotter only",
+    "RDAP registrant not returned for domains; ARIN netblock 144.166.0.0/16 registrant = Metropolitan Water District of California"
+  ],
+  "sources": {
+    "apex_body_bewaterwise_com_.html": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "apex_body_mwdh2o_com_.html": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "apex_hdr_bewaterwise_com_.txt": "a5c55bfa1e7eb9416f419f7edc936ed2114763e735ea3f7d69eca49b0cdda3dc",
+    "apex_hdr_mwdh2o_com_.txt": "d48f7586423827730ceb5281e523f73529da0132727d8f22f1684e8f5624ce64",
+    "baseline_latest_cs_bewaterwise.com.json": "aa6a3b146bc7a123dbe5cb0cda1cb711d81e2b30ff198917bc78a818526f6248",
+    "baseline_latest_cs_mwdh2o.com.json": "18125553effff18c4573817749fdfa36886a4b54808c8d6f9aed7c93aef04b20",
+    "body_www_bewaterwise_com_.html": "c5dde8b909480e8059f73c6113c350a248096c4234c6e1dadf92774ad6b5b346",
+    "body_www_mwdh2o_com_.html": "cbeae06498f1102311c642caaf372055d820cf04493fd18e2e91a55a015139b9",
+    "cs_mwdh20.json": "1d1536ec67e3155d183c7e2efad4cc100b1b1948320434aaf107f8a836173d63",
+    "dns_full.txt": "fb8fb1b610e149c5687a5b2c2e015c74b6bde41ed2e07e064e27f30a119c47ce",
+    "hdr_www_bewaterwise_com_.txt": "2c81ebbf40288f5366c4230a288cf4a29c8458f5e73c45438672d971144274f2",
+    "hdr_www_mwdh2o_com_.txt": "b12159b5db28a36b606d2303d128cc1ff523b443563f7e89e5000eddee147c72",
+    "rdap_all_summary.txt": "0c5eb063fd0642cb44eeb31db1c77a0b1da576d3ae54890a6b21e267d8e5d0c2",
+    "rdap_bewaterwise.com.json": "18754787e23a59ede4270583f2b645ade12a87b8006d9a783fa06c8820b5ce49",
+    "rdap_bewaterwise.net.json": "458d73e70f95d23a30e8e77d814ae4e70966e0482468856581511448691f94f5",
+    "rdap_bewaterwise.org.json": "39f25cb4003383731d4bfb18786f97c6d79e9e3b1809f8c41f8b1e3759fee5e3",
+    "rdap_bwaterwise.com.json": "c08b66eabfa5547855df68090993c0959b990174ac58f0d0160ab0702a845e40",
+    "rdap_dvlake.com.json": "6098bc4aa391c8e5ddb427d9afe6fd5adc87ddbfe67fd334d48c2130c477006c",
+    "rdap_ip_144.166.174.145.json": "1dd82d401ee310a74fe41b3422a646be66ab4b5b6518e2c24f553b01f02ebe54",
+    "rdap_mwdh20.com.json": "3fa4307b6e18b456478f4cd2619d80ad35f8a770cb5b570484673b5c1e0b7175",
+    "rdap_mwdh2o.com.json": "601e926bd9c00730773696c9d55cb98e9e0495f5552f3978f9d0c73ccd1c1d62",
+    "rdap_mwdinnovates.com.json": "b0b65cb5b915c4b461a572792793f969163dbcb91b28921538bcd810e976975e",
+    "rdap_mwdwatertomorrow.com.json": "33f68a9ad88411f3b1a8b88fbb48860212a1b3474770c953b77be9fe2bf4ec4e",
+    "rdap_socalwaterdialogue.com.json": "9578c73f235a53e9944b6b4c2e43672b1ba5d8c4a316ca37a67c80bb0145e11d",
+    "rdap_socalwaterdialogue.org.json": "4998e9d365c0f403872ddb8a23ae4161941fb416c86cc76724d8a22141d815c5",
+    "tls_bewaterwise.com.txt": "c7cc4bcdefc84b39671844df4f7b2680d912c19ca4ab401802791feeba53de56",
+    "tls_mwdh2o.com.txt": "b676330542ecb8d806759eb310859ca8c8cd168508217d0b176245d5c605a17e"
+  }
+}
